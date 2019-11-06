@@ -12,7 +12,7 @@ export class MarioDirective {
 
 private sound;
 private marioData = {
-    song: 'https://www.myinstants.com/media/sounds/untitled_3.mp3',
+    song: 'https://drive.google.com/uc?export=download&id=1WOkw7OPclGnHXWPrg2G8lP6axzMpcgMs',
     image: 'https://www.hbo.com/content/dam/hbodata/series/silicon-valley/characters/s3/gilfoyle-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg',
     color: '#E52521'
   };
