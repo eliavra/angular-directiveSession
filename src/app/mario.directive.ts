@@ -7,7 +7,7 @@ import { Directive, HostListener, ElementRef } from '@angular/core';
 export class MarioDirective {
 
   constructor(private el: ElementRef) {
-    this.sound = new Audio('https://vocaroo.com/media_command.php?media=s0aMPUPHtPZX&command=download_mp3');
+    this.sound = new Audio('https://drive.google.com/uc?export=download&id=1WOkw7OPclGnHXWPrg2G8lP6axzMpcgMs');
    }
 
 private sound;
